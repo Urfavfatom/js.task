@@ -1,0 +1,14 @@
+.style-font{
+    font-size: 70PX;
+    font-family: Impact;
+}
+.font-p{
+    font-size: 25px;
+    margin: 40px;
+}
+button{
+    padding: 20px 40px  !important;
+}
+button:hover{
+    background-color: green !important;
+}
